@@ -4,10 +4,6 @@
 #include "include/data.h"
 #include "include/out.h"
 
-//char *formatData(Data *data);
-//Data createNewDataSet(void);
-//void checkHomeNull(void);
-
 char *formatData(Data *data)
 {
 	if (data == NULL)
